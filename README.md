@@ -19,7 +19,7 @@ cd cd ch32fun/minichlink
 make
 ```
 
-### Build and flash
+## Build and flash
 ```sh
 mkdir build
 cd build
