@@ -4,7 +4,7 @@ This repository contrains minimum working setup for cnlohn's ch32fun CMake, whic
 By default, it's configured to work CH32V003, but you can change the chip by modifing the `CMakeLists.txt` and `include/funconfig.h`.
 It has been tested on Linux to work with CH32V003 and CH32V003, but it should work with other chips too, sice it was made based on the Makefile from ch32fun.
 
-## First use
+## First use
 Start by following the setup in [ch32fun wiki/Installation](https://github.com/cnlohr/ch32fun/wiki/Installation)
 Clone this repository with
 ```sh
